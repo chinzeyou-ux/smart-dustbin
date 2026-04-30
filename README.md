@@ -62,7 +62,7 @@ This project introduces a **smart dustbin** with:
 | Dustbin (Physical) | 1        | Container for waste                  | Main structure of the project        |
 
 
-* | Component          | Qty | Est. Cost (RM) | Purpose                  |
+| Component          | Qty | Est. Cost (RM) | Purpose                  |
 |--------------------|-----|----------------|--------------------------|
 | ESP32              | 1   | 25             | Main controller          |
 | Ultrasonic Sensor  | 1   | 5              | Distance detection       |
