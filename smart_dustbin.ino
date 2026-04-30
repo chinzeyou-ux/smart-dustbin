@@ -7,8 +7,8 @@
 // --- WiFi & Telegram Config ---
 const char* ssid = "Redmi 15 5G";
 const char* password = "12345678";
-#define BOTtoken "8591598857:AAED1hQnJteAoL6ikC2iPBX2hzp8SprVWSk"
-#define CHAT_ID "1921780515"
+#define BOTtoken "xxxxx" 
+#define CHAT_ID "xxxxx"
 
 // --- Pin Definitions ---
 const int trigA = 13; const int echoA = 12; // Servo Sensor
