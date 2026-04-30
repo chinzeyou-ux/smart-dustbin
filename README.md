@@ -144,7 +144,6 @@ Results show reliable and consistent performance for everyday usage.
 1. Arduino Official Website – Servo Motor Control
 2. Electronics Tutorials – Ultrasonic Sensor Working Principle
 3. EE025 Electrical and Electronics Engineering Module
-4. Smart Dustbin DIY Project (YouTube)
 
 ---
 
