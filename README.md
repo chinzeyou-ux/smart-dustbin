@@ -50,6 +50,24 @@ This project introduces a **smart dustbin** with:
 * Jumper wires
 * Power supply
 
+* ## 🧰 Hardware Components
+
+| Component          | Quantity | Description                          | Purpose in Project                   |
+| ------------------ | -------- | ------------------------------------ | ------------------------------------ |
+| ESP32              | 1        | Microcontroller with WiFi capability | Controls the entire system           |
+| Ultrasonic Sensor  | 1        | HC-SR04 distance measurement module  | Detects hand/object near the dustbin |
+| Servo Motor        | 1        | Rotational actuator (e.g., SG90)     | Opens and closes the lid             |
+| Jumper Wires       | Several  | Electrical connection wires          | Connect components together          |
+| Power Supply       | 1        | Battery or USB power source          | Provides power to the system         |
+| Dustbin (Physical) | 1        | Container for waste                  | Main structure of the project        |
+
+
+* | Component          | Qty | Est. Cost (RM) | Purpose                  |
+|--------------------|-----|----------------|--------------------------|
+| ESP32              | 1   | 25             | Main controller          |
+| Ultrasonic Sensor  | 1   | 5              | Distance detection       |
+| Servo Motor        | 1   | 8              | Lid movement             |
+
 ---
 
 ## 💻 Software & Technologies
