@@ -123,11 +123,11 @@ Results show reliable and consistent performance for everyday usage.
 
 ## 👥 Team Members
 
-* Chin Ze You * Lead Programmer & Circuit Design
-* Ho Pinllip * Design Sketch & Circuit Assembly
-* Tee Min Ern
-* Nitishraaj Elanggovan
-* Thanush Kumar Sinnathamby
+* Chin Ze You - Lead Programmer & Circuit Design
+* Ho Pinllip - Design Sketch & Circuit Assembly
+* Tee Min Ern - Project Documentation & Objective Definition
+* Nitishraaj Elanggovan - Budget Management & Material Sourcing
+* Thanush Kumar Sinnathamby - Testing and Final Assembly
 
 ---
 
