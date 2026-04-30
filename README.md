@@ -92,11 +92,9 @@ Refer to the [`hardware/`](./hardware/) folder for:
 
 ```
 smart-dustbin/
-├── docs/               # Reports, presentation, images
+├── docs/               # Images
 ├── hardware/           # Circuit diagrams and wiring
 ├── software/           # ESP32 source code
-├── features/           # Feature documentation
-├── team/               # Team roles & contributions
 └── future-improvements.md
 ```
 
@@ -125,8 +123,8 @@ Results show reliable and consistent performance for everyday usage.
 
 ## 👥 Team Members
 
-* Chin Ze You
-* Ho Pinllip
+* Chin Ze You * Lead Programmer & Circuit Design
+* Ho Pinllip * Design Sketch & Circuit Assembly
 * Tee Min Ern
 * Nitishraaj Elanggovan
 * Thanush Kumar Sinnathamby
