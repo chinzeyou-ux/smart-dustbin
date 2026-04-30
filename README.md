@@ -92,7 +92,7 @@ Refer to the [`hardware/`](./hardware/) folder for:
 
 ```
 smart-dustbin/
-├── docs/               # Images
+├── docs/               # Images & Videos
 ├── hardware/           # Circuit diagrams and wiring
 ├── software/           # ESP32 source code
 └── future-improvements.md
@@ -134,7 +134,6 @@ Results show reliable and consistent performance for everyday usage.
 ## 📈 Future Improvements
 
 * IoT integration (mobile app monitoring)
-* Fill-level detection with notifications
 * Solar-powered system
 * Larger capacity design
 
